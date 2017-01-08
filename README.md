@@ -15,6 +15,8 @@
 * **sudo atom index.php** - открыть файл с помощью Атома, если такого файла нет -то создаст
 * **sudo rm filename** - удалить файл
 * **sudo rm directory -r** -  удалить папку
+* **(cd /path/to/filename) sudo chmod +x filename.sh** - сделать файл допустимым для запуска
+* **./filename.sh** - запуск файла
 
 
 ## Deploying Laravel on VPS, LEMP(Linux, Nginx, MySQL, PHP)
