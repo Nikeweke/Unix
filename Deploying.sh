@@ -1,3 +1,8 @@
+# cd /path/to/file
+# chmod +x filename.sh
+# ./filename.sh
+
+
 sudo apt-get update
 sudo apt-get install nginx
 sudo apt-get install mysql-server
