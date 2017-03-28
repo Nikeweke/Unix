@@ -7,7 +7,7 @@
 * **sudo apt-get install nano** - текстовий редактор который откроет файл в консоли(**Ctrl+W - search, Ctrl+X - save**)
 
 ## Commands
-* **killall** - убить процесс
+* **killall name_proccess** - убить процесс
 * **top** - действующие процессы
 * **uptime** - сколько в работе 
 * **sudo apt-get update** - обновить установщик
