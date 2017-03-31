@@ -9,9 +9,10 @@
 ## Launching files
 * Launch file without **.sh** - `./filename`
 * Launch **file.sh** - `bash filename.sh`
-sudo su
+
 
 ## Commands
+* **sudo su** - получени прав root
 * **killall name_proccess** - убить процесс
 * **top** - действующие процессы
 * **uptime** - сколько в работе 
