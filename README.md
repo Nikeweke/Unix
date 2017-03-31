@@ -6,6 +6,11 @@
 * **sudo apt-get remove pkg_name** - удаление пакета
 * **sudo apt-get install nano** - текстовий редактор который откроет файл в консоли(**Ctrl+W - search, Ctrl+X - save**)
 
+## Launching files
+* Launch file without **.sh** - `./filename`
+* Launch **file.sh** - `bash filename.sh`
+sudo su
+
 ## Commands
 * **killall name_proccess** - убить процесс
 * **top** - действующие процессы
