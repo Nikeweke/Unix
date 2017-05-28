@@ -32,6 +32,8 @@ apt-get install nginx
 * **(cd /path/to/filename) sudo chmod +x filename.sh** - сделать файл допустимым для запуска
 * **./filename** - запуск файла(без разширения)
 * **bash filename.sh** - запуск с разширением
+* **dpkg -s filename** - установлен ли пакет ?
+* **whereis filename** - где пакет
  
 
 ### Deploying Laravel on VPS, LEMP(Linux, Nginx, MySQL, PHP)
