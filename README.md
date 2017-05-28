@@ -1,17 +1,22 @@
-# Unix(Ubuntu)
+## Unix(Ubuntu)
 
+### Удаление Nginx под чистую 
+```
+apt-get remove --purge nginx nginx-full nginx-common
+apt-get install nginx
+```
 
-## Packages(Ubuntu - apt-get)
+### Packages(Ubuntu - apt-get)
 * **sudo apt-get install pkg_name** - установка пакета
 * **sudo apt-get remove pkg_name** - удаление пакета
 * **sudo apt-get install nano** - текстовий редактор который откроет файл в консоли(**Ctrl+W - search, Ctrl+X - save**)
 
-## Launching files
+### Launching files
 * Launch file without **.sh** - `./filename`
 * Launch **file.sh** - `bash filename.sh`
 
 
-## Commands
+### Commands
 * **sudo su** - получени прав root
 * **killall name_proccess** - убить процесс
 * **top** - действующие процессы
@@ -29,6 +34,6 @@
 * **bash filename.sh** - запуск с разширением
  
 
-## Deploying Laravel on VPS, LEMP(Linux, Nginx, MySQL, PHP)
+### Deploying Laravel on VPS, LEMP(Linux, Nginx, MySQL, PHP)
 http://devmarketer.io/learn/deploy-laravel-5-app-lemp-stack-ubuntu-nginx/
 
