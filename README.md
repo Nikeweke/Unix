@@ -34,6 +34,7 @@ apt-get install nginx
 * **bash filename.sh** - запуск с разширением
 * **dpkg -s filename** - установлен ли пакет ?
 * **whereis filename** - где пакет
+* **du -hs /path/to/directory** - вес папки
  
 
 ### Deploying Laravel on VPS, LEMP(Linux, Nginx, MySQL, PHP)
