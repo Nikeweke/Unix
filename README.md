@@ -8,11 +8,9 @@ $ node app prod & >> log.txt
 ```
 
 ### Права на папку и переименование
-```
-sudo chmod -R a+wx folder - все права на папку для исполнения там действий
-sudo mv robot robot_new - переименовать папку
-HELP commands  when HOLD windows button
-```
+* `sudo chmod -R a+wx folder` - все права на папку для исполнения там действий
+* `sudo mv robot robot_new` - переименовать папку
+* `HELP commands  when HOLD windows button
 
 ### Удаление Nginx под чистую 
 ```
