@@ -26,8 +26,8 @@
 * **du -hs /path/to/directory** - вес папки
 
 ### Launching files
-* Launch file without **.sh** - `./filename`
-* Launch **file.sh** - `bash filename.sh`
+* **./filename** - Launch file without `.sh`
+* **bash filename.sh** - Launch `file.sh`
 
 ### Права на папку и переименование
 * **sudo chmod -R a+wx folder** - все права на папку для исполнения там действий
