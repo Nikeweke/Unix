@@ -30,8 +30,8 @@
 * Launch **file.sh** - `bash filename.sh`
 
 ### Права на папку и переименование
-* `sudo chmod -R a+wx folder` - все права на папку для исполнения там действий
-* `sudo mv robot robot_new` - переименовать папку
+* **sudo chmod -R a+wx folder** - все права на папку для исполнения там действий
+* **sudo mv robot robot_new** - переименовать папку
 * `HELP commands  when HOLD windows button
 
 ### Node JS Deploy решение почему же приложение падает после закрытия окна
